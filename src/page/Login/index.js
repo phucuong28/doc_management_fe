@@ -2,7 +2,7 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import "./Login.css"
 
-function App() {
+function Login() {
   return (
     <div className="Auth-form-container">
       <form className="Auth-form">
@@ -36,4 +36,4 @@ function App() {
 
 }
 
-export default App
+export default Login
